@@ -10,4 +10,7 @@
 
 using namespace std;
 
-namespace power_recursion {}
+namespace power_recursion {
+    
+    
+}
